@@ -239,8 +239,7 @@ if (isset($_POST['registration']))
                                                 <input class="subButton" type="radio" value="other" name="gender" required> Other<br>
                                             </p>
                                         </div>
-
-                                        <!-- ******************* -->
+ 
 
                                         <div class="form-group">
                                             <input type="number" name="experience" minlength="1" maxlength="3" class="form-control" placeholder="Year of Experienca *" required />

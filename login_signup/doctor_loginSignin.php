@@ -249,7 +249,6 @@ if (isset($_POST['registration']))
                                             <input type="text" name="degree_name" class="form-control" placeholder="Degree(s) *" required />
                                         </div>
 
-
                                         <div class="form-group">
                                             <select class="form-control" id="tag_name_field" name="tag__name" onchange="show_doctors_name(this.value)" required>
                                                 <option class="hidden" value="" selected disabled>Specialist *</option>
